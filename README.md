@@ -78,4 +78,3 @@ This project simulates transaction data, applies the Apriori algorithm to find f
 - `todo.md`: Assignment checklist.
 
 ---
-Replace `yourname` in the repo name as required for submission. 
